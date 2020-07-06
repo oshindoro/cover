@@ -42,6 +42,9 @@ body {
   max-width: 65em;
 }
 
+.h1 {
+font-family: cursive;
+}
 
 /*
  * Header
