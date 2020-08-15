@@ -106,7 +106,7 @@ font-family: 'Sacramento', cursive;
 
 .card {
   background-color: #333;
-  text-align: left;
+  text-align: center;
   padding-top: .80rem;
   outline-style: double;
 }
