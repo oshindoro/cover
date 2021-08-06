@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Jekyll v4.0.1">
+  <title>Michael Oshindoro's Website</title>
+
+  <link rel="icon" href="favicon.ico">
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/cover/">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Bootstrap core CSS -->
+  <link href="../assets/dist/css/bootstrap.css" rel="stylesheet">
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+  <!-- Custom styles for this template -->
+  <link href="cover.css" rel="stylesheet">
+</head>
+
+<body class="text-center">
+  
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+      <div class="inner">
+        <h3 class="masthead-brand">Michael Ọshindọrọ</h3>
+        <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link active" href="bio.html">Bio</a>
+          <a class="nav-link" href="teaching.html">Teaching</a>
+        </nav>
+      </div>
+    </header>
+
+    <main role="main" class="inner cover">
+      <div class="blog-post">
+        <h3 class="blog-post-title">Education <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-book-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path d="M15.261 13.666c.345.14.739-.105.739-.477V2.5a.472.472 0 0 0-.277-.437c-1.126-.503-5.42-2.19-7.723.129C5.696-.125 1.403 1.56.277 2.063A.472.472 0 0 0 0 2.502V13.19c0 .372.394.618.739.477C2.738 12.852 6.125 12.113 8 14c1.875-1.887 5.262-1.148 7.261-.334z"/>
+</svg></h3>
+        <p class="blog-post-meta">May 2020: MA English, Bowling Green State University
+
+        <p class="indent">Thesis: <a href="https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:184375" target="_blank"><span class="text-primary">Myth Is Its Own Undoing</span></a>: Approaching Gender Equity Through Gender Dialogue In Ayọbami Adebayo’s Stay With Me (2017) And Lola Shonẹyin’s The Secret Lives Of Baba Sẹgi’s Wives (2010)</p>
+
+        <p class="blog-post-meta">May 2020, Graduate Certificate, Bowling Green State University</p>
+        <p class="indent">TESOL Teaching English to Speakers of Other Languages.</p>
+
+        <p class="blog-post-meta">February 2017: MA Linguistics, University of Ibadan
+        <p class="blog-post-meta">April 2013, BA Linguistics, Ekiti State University
+</div><!-- /.blog-post -->
+
+      <div class="blog-post">
+        <h3 class="blog-post-title">Online Publication  <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-globe" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M1.018 7.5h2.49c.03-.877.138-1.718.312-2.5H1.674a6.958 6.958 0 0 0-.656 2.5zM2.255 4H4.09a9.266 9.266 0 0 1 .64-1.539 6.7 6.7 0 0 1 .597-.933A7.024 7.024 0 0 0 2.255 4zM8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm-.5 1.077c-.67.204-1.335.82-1.887 1.855-.173.324-.33.682-.468 1.068H7.5V1.077zM7.5 5H4.847a12.5 12.5 0 0 0-.338 2.5H7.5V5zm1 2.5V5h2.653c.187.765.306 1.608.338 2.5H8.5zm-1 1H4.51a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm1 2.5V8.5h2.99a12.495 12.495 0 0 1-.337 2.5H8.5zm-1 1H5.145c.138.386.295.744.468 1.068.552 1.035 1.218 1.65 1.887 1.855V12zm-2.173 2.472a6.695 6.695 0 0 1-.597-.933A9.267 9.267 0 0 1 4.09 12H2.255a7.024 7.024 0 0 0 3.072 2.472zM1.674 11H3.82a13.651 13.651 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm8.999 3.472A7.024 7.024 0 0 0 13.745 12h-1.834a9.278 9.278 0 0 1-.641 1.539 6.688 6.688 0 0 1-.597.933zM10.855 12H8.5v2.923c.67-.204 1.335-.82 1.887-1.855A7.98 7.98 0 0 0 10.855 12zm1.325-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.65 13.65 0 0 1-.312 2.5zm.312-3.5h2.49a6.959 6.959 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.91 4a9.277 9.277 0 0 0-.64-1.539 6.692 6.692 0 0 0-.597-.933A7.024 7.024 0 0 1 13.745 4h-1.834zm-1.055 0H8.5V1.077c.67.204 1.335.82 1.887 1.855.173.324.33.682.468 1.068z"/>
+</svg></h3>
+        <ul>
+          <li>“Unknown Women of Bus Boycott.” BG News; The Obsidian, Vol. 45, Issue 1. February 10, 2020. <a href="https://www.bgfalconmedia.com/forum/unknown-women-of-bus-boycott/article_ae4e3700-4946-11ea-a98a-370c10aec55b.html" target="_blank"><span class="text-primary">Read here.</span></a></li>
+          <li>“Did You Hear the Afrocentrism in Beyonce’s The Lion King Album?” African Writer,  July 31, 2019. <a href="https://www.africanwriter.com/did-you-hear-the-afrocentrism" target="_blank"><span class="text-primary">Read here.</span></a></li>
+        </ul>
+      </div>
+
+    <div class="blog-post">
+          <h3 class="blog-post-title">Award  <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-award-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8 0l1.669.864 1.858.282.842 1.68 1.337 1.32L13.4 6l.306 1.854-1.337 1.32-.842 1.68-1.858.282L8 12l-1.669-.864-1.858-.282-.842-1.68-1.337-1.32L2.6 6l-.306-1.854 1.337-1.32.842-1.68L6.331.864 8 0z"/>
+      <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1 4 11.794z"/>
+    </svg></h3>
+<p>Fulbright Foreign Language Teaching Assistantship 2017-2018</p>
+<p class="indent">Cultural Ambassador and Teaching Assistant at Fayetteville State University, North Carolina.</p>
+
+  </div>
+
+    </main>
+    
+    
+    
+
+    <footer class="text-muted">
+      <div class="container">
+
+        <a href="https://www.linkedin.com/in/michael-oshindoro-77b9b698/" target="_blank" class="fa fa-linkedin"></a>
+  </a> |  <a href="https://www.instagram.com/moshindoro/?hl=en" target="_blank" class="fa fa-instagram"></a> |  <a href="https://www.facebook.com/MichaelOshindoro?ref=bookmarks" target="_blank" class="fa fa-facebook"></a>
+
+  <p class="copyright">© 2020 Michael Ọshindọrọ</p>
+
+    </div>
+    </footer>
+  
+  
+  
+  
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script>
+      window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')
+    </script>
+    <script src="../assets/dist/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>
